@@ -7,3 +7,4 @@ const test2 = isFoo ?
 
 const test3 = isFoo ?
   'データfooを選択中です（' + 1 +' 個）' : '選択できるデータは存在しません';
+
