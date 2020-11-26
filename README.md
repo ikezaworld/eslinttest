@@ -17,13 +17,13 @@ The command to perform eslint formatting
 ### Run npm script
 
 ```
-$npm run eslint:fix
+$ npm run eslint:fix
 ```
 
 ### Run the command from npm bin
 
 ```
-$$(npm bin)/eslint --fix ./src/index.js
+$ $(npm bin)/eslint --fix ./src/index.js
 ```
 
 ### How to see the code before formatting?
