@@ -1,7 +1,7 @@
 {
   "name": "eslinttest",
   "version": "1.0.0",
-  "description": "test of eslinttest",
+  "description": "test of eslint & prettier",
   "scripts": {
     "eslint:fix": "eslint --fix ./src/index.js",
     "prettier": "prettier --write ./src/index.js"
