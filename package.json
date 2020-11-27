@@ -6,8 +6,6 @@
     "eslint:fix": "eslint --fix ./src/index.js",
     "prettier": "prettier --write ./src/index.js"
   },
-  "author": "",
-  "license": "ISC",
   "devDependencies": {
     "eslint": "^7.14.0",
     "eslint-config-prettier": "^6.15.0",
